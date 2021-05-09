@@ -11,8 +11,8 @@ url:                 mbakhov.github.io
 baseurl:             ''
 paginate:            5
 permalink:           pretty
-plugins:
-  - jekyll-paginate
+#plugins:
+#  - jekyll-paginate
 encoding:            UTF-8
 
 # About/contact
